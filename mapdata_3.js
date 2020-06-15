@@ -72,227 +72,283 @@ var simplemaps_usmap_mapdata={
   state_specific: {
     HI: {
       name: "Hawaii",
-      hide: "yes"
+      hide: "yes",
+      url: "https://sunray-notice.webflow.io/resources/hawaii"
     },
     AK: {
       name: "Alaska",
-      hide: "yes"
+      hide: "yes",
+      url: "https://sunray-notice.webflow.io/resources/alaska"
     },
     FL: {
       name: "Florida",
-      color: "#FF9029"
+      color: "#FF9029",
+      url: "https://sunray-notice.webflow.io/resources/florida"
     },
     NH: {
       name: "New Hampshire",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/new-hampshire"
     },
     VT: {
       name: "Vermont",
-      color: "#17598A"
+      color: "#17598A",
+      url: "https://sunray-notice.webflow.io/resources/vermont"
     },
     ME: {
       name: "Maine",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/maine"
     },
     RI: {
       name: "Rhode Island",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/rhode-island"
     },
     NY: {
       name: "New York",
-      color: "#17598A"
+      color: "#17598A",
+      url: "https://sunray-notice.webflow.io/resources/new-york"
     },
     PA: {
       name: "Pennsylvania",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/pennsylvania"
     },
     NJ: {
       name: "New Jersey",
-      color: "#FF9029"
+      color: "#FF9029",
+      url: "https://sunray-notice.webflow.io/resources/new-jersey"
     },
     DE: {
       name: "Delaware",
-      color: "#17598A"
+      color: "#17598A",
+      url: "https://sunray-notice.webflow.io/resources/delware"
     },
     MD: {
       name: "Maryland",
-      color: "#17598A"
+      color: "#17598A",
+      url: "https://sunray-notice.webflow.io/resources/maryland"
     },
     VA: {
       name: "Virginia",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/virgina"
     },
     WV: {
       name: "West Virginia",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/west-virgina"
     },
     OH: {
       name: "Ohio",
-      color: "#FF9029"
+      color: "#FF9029",
+      url: "https://sunray-notice.webflow.io/resources/ohio"
     },
     IN: {
       name: "Indiana",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/indiana"
     },
     IL: {
       name: "Illinois",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/illinois"
     },
     CT: {
       name: "Connecticut",
-      color: "#17598A"
+      color: "#17598A",
+      url: "https://sunray-notice.webflow.io/resources/connecticut"
     },
     WI: {
       name: "Wisconsin",
-      color: "#FF9029"
+      color: "#FF9029",
+      url: "https://sunray-notice.webflow.io/resources/wisconsin"
     },
     NC: {
       name: "North Carolina",
-      color: "#FF9029"
+      color: "#FF9029",
+      url: "https://sunray-notice.webflow.io/resources/north-carolina"
     },
     DC: {
       name: "District of Columbia",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/district-of-columbia"
     },
     MA: {
       name: "Massachusetts",
-      color: "#FF9029"
+      color: "#FF9029",
+      url: "https://sunray-notice.webflow.io/resources/massachusetts"
     },
     TN: {
       name: "Tennessee",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/tennessee"
     },
     AR: {
       name: "Arkansas",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/arkansas"
     },
     MO: {
       name: "Missouri",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/missouri"
     },
     GA: {
       name: "Georgia",
-      color: "#FF9029"
+      color: "#FF9029",
+      url: "https://sunray-notice.webflow.io/resources/georgia"
     },
     SC: {
       name: "South Carolina",
-      color: "#FF9029"
+      color: "#FF9029",
+      url: "https://sunray-notice.webflow.io/resources/south-carolina"
     },
     KY: {
       name: "Kentucky",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/kentucky"
     },
     AL: {
       name: "Alabama",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/alabama"
     },
     LA: {
       name: "Louisiana",
-      color: "#FF9029"
+      color: "#FF9029",
+      url: "https://sunray-notice.webflow.io/resources/louisiana"
     },
     MS: {
       name: "Mississippi",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/mississippi"
     },
     IA: {
       name: "Iowa",
-      color: "#FF9029"
+      color: "#FF9029",
+      url: "https://sunray-notice.webflow.io/resources/iowa"
     },
     MN: {
       name: "Minnesota",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/minnesota"
     },
     OK: {
       name: "Oklahoma",
-      color: "#FF9029"
+      color: "#FF9029",
+      url: "https://sunray-notice.webflow.io/resources/oklahoma"
     },
     TX: {
       name: "Texas",
-      color: "#FF9029"
+      color: "#FF9029",
+      url: "https://sunray-notice.webflow.io/resources/texas"
     },
     NM: {
       name: "New Mexico",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/new-mexico"
     },
     KS: {
       name: "Kansas",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/kansas"
     },
     NE: {
       name: "Nebraska",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/nebraska"
     },
     SD: {
       name: "South Dakota",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/south-dakota"
     },
     ND: {
       name: "North Dakota",
-      color: "#17598A"
+      color: "#17598A",
+      url: "https://sunray-notice.webflow.io/resources/north-dakota"
     },
     WY: {
       name: "Wyoming",
-      color: "#FF9029"
+      color: "#FF9029",
+      url: "https://sunray-notice.webflow.io/resources/wyoming"
     },
     MT: {
       name: "Montana",
-      color: "#FF9029"
+      color: "#FF9029",
+      url: "https://sunray-notice.webflow.io/resources/montana"
     },
     CO: {
       name: "Colorado",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/colorado"
     },
     UT: {
       name: "Utah",
-      color: "#FF9029"
+      color: "#FF9029",
+      url: "https://sunray-notice.webflow.io/resources/utah"
     },
     AZ: {
       name: "Arizona",
-      color: "#FF9029"
+      color: "#FF9029",
+      url: "https://sunray-notice.webflow.io/resources/arizona"
     },
     NV: {
       name: "Nevada",
-      color: "#FF9029"
+      color: "#FF9029",
+      url: "https://sunray-notice.webflow.io/resources/nevada"
     },
     OR: {
       name: "Oregon",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/oregon"
     },
     WA: {
       name: "Washington",
-      color: "#FF9029"
+      color: "#FF9029",
+      url: "https://sunray-notice.webflow.io/resources/washington"
     },
     CA: {
       name: "California",
-      color: "#FF9029"
+      color: "#FF9029",
+      url: "https://sunray-notice.webflow.io/resources/california"
     },
     MI: {
       name: "Michigan",
-      color: "#FF9029"
+      color: "#FF9029",
+      url: "https://sunray-notice.webflow.io/resources/michigan"
     },
     ID: {
       name: "Idaho",
-      color: "#247BB0"
+      color: "#247BB0",
+      url: "https://sunray-notice.webflow.io/resources/idaho"
     },
     GU: {
       name: "Guam",
-      hide: "yes"
+      hide: "yes",
+      url: "https://sunray-notice.webflow.io/resources/Guam"
     },
     VI: {
       name: "Virgin Islands",
-      hide: "yes"
+      hide: "yes",
+      url: "https://sunray-notice.webflow.io/resources/virgin-islands"
     },
     PR: {
       name: "Puerto Rico",
-      hide: "yes"
+      hide: "yes",
+      url: "https://sunray-notice.webflow.io/resources/puerto-rico"
     },
     MP: {
       name: "Northern Mariana Islands",
-      hide: "yes"
+      hide: "yes",
+      url: "https://sunray-notice.webflow.io/resources/northern-mariana-islands"
     },
     AS: {
       name: "American Samoa",
-      hide: "yes"
+      hide: "yes",
+      url: "https://sunray-notice.webflow.io/resources/american-samoa"
     }
   },
   locations: {},
