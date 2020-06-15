@@ -60,7 +60,7 @@ var simplemaps_usmap_mapdata={
     //Advanced settings
     div: "public",
     auto_load: "yes",
-    url_new_tab: "yes",
+    url_new_tab: "no",
     images_directory: "/static/lib/simplemaps/map_images/",
     fade_time: 0.1,
     import_labels: "no",
