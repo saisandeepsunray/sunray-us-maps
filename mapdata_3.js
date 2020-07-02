@@ -133,12 +133,12 @@ var simplemaps_usmap_mapdata={
     VA: {
       name: "Virginia",
       color: "#247BB0",
-      url: "https://sunray-notice.webflow.io/resources/virgina"
+      url: "https://google.com"
     },
     WV: {
       name: "West Virginia",
       color: "#247BB0",
-      url: "https://sunray-notice.webflow.io/resources/west-virgina"
+      url: "https://google.com"
     },
     OH: {
       name: "Ohio",
