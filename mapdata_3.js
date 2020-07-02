@@ -131,11 +131,13 @@ var simplemaps_usmap_mapdata={
       url: "https://sunray-notice.webflow.io/resources/maryland"
     },
     VA: {
+      
       name: "Virginia",
       color: "#247BB0",
       url: "https://sunray-notice.webflow.io/resources/virginia"
     },
     WV: {
+      
       name: "West Virginia",
       color: "#247BB0",
       url: "https://sunray-notice.webflow.io/resources/west-virginia"
