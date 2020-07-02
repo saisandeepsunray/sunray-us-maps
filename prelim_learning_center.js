@@ -78,7 +78,7 @@ var simplemaps_usmap_mapdata={
     AK: {
       name: "Alaska",
       hide: "yes",
-      url: "https://sunray-notice.webflow.io/resources/alaska"#learning-center
+      url: "https://sunray-notice.webflow.io/resources/alaska#learning-center"
     },
     FL: {
       name: "Florida",
