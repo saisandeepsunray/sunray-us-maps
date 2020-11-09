@@ -123,7 +123,7 @@ var simplemaps_usmap_mapdata={
     DE: {
       name: "Delaware",
       color: "#17598A",
-      url: "https://www.sunraynotice.com/resources/delware"
+      url: "https://www.sunraynotice.com/resources/delaware"
     },
     MD: {
       name: "Maryland",
