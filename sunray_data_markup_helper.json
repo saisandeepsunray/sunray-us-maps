@@ -1,4 +1,4 @@
-[ {
+var data = [ {
   "@context" : "http://schema.org",
   "@type" : "Event",
   "name" : "Notice of Furnishing, Lien and Bond Claim Refresher (with Pro-Tips) in Ohio",
